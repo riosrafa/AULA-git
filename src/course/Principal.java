@@ -12,6 +12,13 @@ public class Principal {
 		String n = sc.next();
 		System.out.println("Teste : "+ n);
 		
+		
+		n = sc.next();
+		
+		System.out.println(".................");
+		
+		
+		
 		sc.close();
 	}
 
